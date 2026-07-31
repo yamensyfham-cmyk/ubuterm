@@ -1,6 +1,6 @@
 name: "Ubuntu Dev"
 description: "Minimal + developer toolchain"
-version: "22.04"
+version: "24.04"
 arch: "aarch64"
 size_mb: 520
 packages:

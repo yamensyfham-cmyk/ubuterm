@@ -1,6 +1,6 @@
 name: "Ubuntu Minimal"
 description: "Base shell system only"
-version: "22.04"
+version: "24.04"
 arch: "aarch64"
 size_mb: 280
 packages:

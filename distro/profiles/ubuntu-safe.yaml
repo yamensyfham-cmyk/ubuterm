@@ -1,6 +1,6 @@
 name: "Ubuntu Safe"
 description: "Minimal with safety prompts enabled"
-version: "22.04"
+version: "24.04"
 arch: "aarch64"
 size_mb: 300
 packages:
