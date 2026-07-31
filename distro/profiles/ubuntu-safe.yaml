@@ -1,0 +1,21 @@
+name: "Ubuntu Safe"
+description: "Minimal with safety prompts enabled"
+version: "22.04"
+arch: "aarch64"
+size_mb: 300
+packages:
+  - bash
+  - coreutils
+  - curl
+  - wget
+  - git
+  - nano
+  - python3
+  - ssh
+  - zip
+  - unzip
+  - man-db
+  - locales
+  - tzdata
+  - apt
+  - dpkg

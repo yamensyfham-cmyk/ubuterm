@@ -1,0 +1,2 @@
+-keep class com.ubuterm.** { *; }
+-dontwarn org.jetbrains.annotations.**

@@ -1,0 +1,27 @@
+name: "Ubuntu Minimal"
+description: "Base shell system only"
+version: "22.04"
+arch: "aarch64"
+size_mb: 280
+packages:
+  - bash
+  - coreutils
+  - util-linux
+  - procps
+  - sed
+  - grep
+  - gawk
+  - findutils
+  - tar
+  - gzip
+  - xz-utils
+  - ca-certificates
+  - curl
+  - wget
+  - openssh-client
+  - nano
+  - locales
+  - tzdata
+  - sudo
+  - apt
+  - dpkg

@@ -1,0 +1,1 @@
+nodejs npm golang rustup clang lld vim-tiny fish zsh sqlite3
